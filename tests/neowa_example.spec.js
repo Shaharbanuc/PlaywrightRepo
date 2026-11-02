@@ -44,4 +44,4 @@ test.only('test', async ({ page }) => {
 //git add . the files with U will be added to the staging area A,M means Modified
 //or Click Source Control on the left sidebar.Under Changes, click the + beside Changes to stage all files.
 //git commit -m "first commit"
-//git push -u origin branchname
+//git push -u origin main
